@@ -1,0 +1,26 @@
+C:\Users\User\source\repos\SnakeAI\SnakeAI\bin\Debug\netcoreapp3.1\SnakeAI.exe
+C:\Users\User\source\repos\SnakeAI\SnakeAI\bin\Debug\netcoreapp3.1\SnakeAI.deps.json
+C:\Users\User\source\repos\SnakeAI\SnakeAI\bin\Debug\netcoreapp3.1\SnakeAI.runtimeconfig.json
+C:\Users\User\source\repos\SnakeAI\SnakeAI\bin\Debug\netcoreapp3.1\SnakeAI.runtimeconfig.dev.json
+C:\Users\User\source\repos\SnakeAI\SnakeAI\bin\Debug\netcoreapp3.1\SnakeAI.dll
+C:\Users\User\source\repos\SnakeAI\SnakeAI\bin\Debug\netcoreapp3.1\SnakeAI.pdb
+C:\Users\User\source\repos\SnakeAI\SnakeAI\obj\Debug\netcoreapp3.1\SnakeAI.csprojAssemblyReference.cache
+C:\Users\User\source\repos\SnakeAI\SnakeAI\obj\Debug\netcoreapp3.1\SnakeAI.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\SnakeAI\SnakeAI\obj\Debug\netcoreapp3.1\SnakeAI.AssemblyInfo.cs
+C:\Users\User\source\repos\SnakeAI\SnakeAI\obj\Debug\netcoreapp3.1\SnakeAI.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\SnakeAI\SnakeAI\obj\Debug\netcoreapp3.1\SnakeAI.dll
+C:\Users\User\source\repos\SnakeAI\SnakeAI\obj\Debug\netcoreapp3.1\SnakeAI.pdb
+C:\Users\User\source\repos\SnakeAI\SnakeAI\obj\Debug\netcoreapp3.1\SnakeAI.genruntimeconfig.cache
+C:\Users\User\Desktop\PROJECTS\Full Projects\SnakeAI\SnakeAI\bin\Debug\netcoreapp3.1\SnakeAI.exe
+C:\Users\User\Desktop\PROJECTS\Full Projects\SnakeAI\SnakeAI\bin\Debug\netcoreapp3.1\SnakeAI.deps.json
+C:\Users\User\Desktop\PROJECTS\Full Projects\SnakeAI\SnakeAI\bin\Debug\netcoreapp3.1\SnakeAI.runtimeconfig.json
+C:\Users\User\Desktop\PROJECTS\Full Projects\SnakeAI\SnakeAI\bin\Debug\netcoreapp3.1\SnakeAI.runtimeconfig.dev.json
+C:\Users\User\Desktop\PROJECTS\Full Projects\SnakeAI\SnakeAI\bin\Debug\netcoreapp3.1\SnakeAI.dll
+C:\Users\User\Desktop\PROJECTS\Full Projects\SnakeAI\SnakeAI\bin\Debug\netcoreapp3.1\SnakeAI.pdb
+C:\Users\User\Desktop\PROJECTS\Full Projects\SnakeAI\SnakeAI\obj\Debug\netcoreapp3.1\SnakeAI.csprojAssemblyReference.cache
+C:\Users\User\Desktop\PROJECTS\Full Projects\SnakeAI\SnakeAI\obj\Debug\netcoreapp3.1\SnakeAI.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\PROJECTS\Full Projects\SnakeAI\SnakeAI\obj\Debug\netcoreapp3.1\SnakeAI.AssemblyInfo.cs
+C:\Users\User\Desktop\PROJECTS\Full Projects\SnakeAI\SnakeAI\obj\Debug\netcoreapp3.1\SnakeAI.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\PROJECTS\Full Projects\SnakeAI\SnakeAI\obj\Debug\netcoreapp3.1\SnakeAI.dll
+C:\Users\User\Desktop\PROJECTS\Full Projects\SnakeAI\SnakeAI\obj\Debug\netcoreapp3.1\SnakeAI.pdb
+C:\Users\User\Desktop\PROJECTS\Full Projects\SnakeAI\SnakeAI\obj\Debug\netcoreapp3.1\SnakeAI.genruntimeconfig.cache

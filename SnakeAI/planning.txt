@@ -1,0 +1,50 @@
+﻿Snake AI Project
+
+Snake Game
+
+- Snake Game should have the board(2d array).
+- The board will contain the snake and apple that snake eats.
+- Snake game will contain a snake object.
+- Snake game will contain a board object.-/
+- Snake game will contain a apple object.-/
+- Snake game will contain a player object since only one player
+- Snake game will contain an AI script that can be called within the player object
+
+
+example:
+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
++																			+
++																			+
++						##########											+
++								 # 											+
++								 #											+
++								 X											+
++																			+
++																			+
++														O					+
++																			+
++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+
+
+X - Snake Head.
+O - Apple.
+# - Snake Body.
++ - Board border.
+
+
+
+I want to make new snake object in board class
+After creating the new class, I want to do a new SnakeObject.Create() to create the snake
+I then want to take to coordinates of the snake and change the board to put # values in for the snake
+
+
+
+IF the apple spawns in the snake body
+- You could make the apple spawn away from the snake, easy fix, not fun.
+- You can loop through the snake to find all the row and block coordinates that it is in. If it is about to eat its own body it must manouver away
+The second fix requires getting the coordinates of the snake and before a move it must check if it is about to eat its own body or not. if it is let it go somewhere else.
+
+
+if snake is on apple you can make the snake move away from the apple until it is no longer on the apple and then go for it again, it is about to reach a corner you can do conditionals
+to  make it move away from the border.

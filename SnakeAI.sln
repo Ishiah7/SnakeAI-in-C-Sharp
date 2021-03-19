@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31025.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SnakeAI", "SnakeAI\SnakeAI.csproj", "{28648028-7C2F-4342-8600-655C2E152B23}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{28648028-7C2F-4342-8600-655C2E152B23}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{28648028-7C2F-4342-8600-655C2E152B23}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{28648028-7C2F-4342-8600-655C2E152B23}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{28648028-7C2F-4342-8600-655C2E152B23}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AA8E450E-1CDF-4C00-AC26-FD6B500A2C21}
+	EndGlobalSection
+EndGlobal
