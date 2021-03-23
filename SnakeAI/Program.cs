@@ -32,6 +32,8 @@ namespace SnakeAI
 
             if (getModeChoice == '1')
             {
+                Console.SetCursorPosition(0, 0);
+
                 while (true)
                 {
                     ShowScore(gameBoard);
@@ -55,13 +57,14 @@ namespace SnakeAI
                     }
                     else
                     {
-                        Console.Clear();
+                        Console.SetCursorPosition(0, 0);
                     }
                 }
             }
             else
             {
                 // AI 
+                Console.SetCursorPosition(0, 0);
 
                 while (true)
                 {
@@ -86,7 +89,7 @@ namespace SnakeAI
                     }
                     else
                     {
-                        Console.Clear();
+                        Console.SetCursorPosition(0, 0);
                     }
                 }
             }           
@@ -105,7 +108,7 @@ namespace SnakeAI
 
         static void GameOver(Board board)
         {
-            Console.Clear();
+            Console.SetCursorPosition(0, 0);
 
             Console.ForegroundColor = ConsoleColor.Red;
 
